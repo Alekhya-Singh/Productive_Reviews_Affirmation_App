@@ -6,7 +6,7 @@ The Productive Reviews Affirmation Application (PRAA) focuses on enriching the r
 
 The dataset chosen for the solution consists of reviews for fine-foods from Amazon and other Amazon categories. The data, sourced from Kaggle, spans a period of more than 10 years. The data consists of over 560,000 reviews up to October 2012. Link to the dataset on Kaggle.
 
-###Implementation Steps:
+### Implementation Steps:
 
     1. Data collection and storage -
         a. The dataset is over 568,0454 Amazon Fine Food Reviews scrapped from the website. This has been downloaded from Kaggle.
@@ -27,17 +27,17 @@ The dataset chosen for the solution consists of reviews for fine-foods from Amaz
     5. Using Spark submit, the flask web server was started, and the web app was accessible through local host on port 8081. The input review string from the user is first converted into data frame, tokenized and analysed using the ML model for the usefulness prediction. 
     
     
-###Performance:
+### Performance:
  
 Performance of the system is based on the accuracy of the model and how efficiently the system provides the helpfulness of the reviews. The reviews entered by the user as input should give a result that shows whether the entered text is a useful review or need to add more details. After testing the model with 15% of the data, the system reached an accuracy of 83% (on a certain randomized seed).   
 
-###Resources:
+### Resources:
 
     • The notebook on IBM Watson can be accessed by following this link. (IBM ID is however required to run the code)
     • The codes and documentation can be found in this Git repo.
 
 
-###Conclusion:
+### Conclusion:
 
 Rapid evolution of Cloud Technologies has driven the boom of the online market. Due to the increased demand for online capabilities, a critical need for research in this important area is needed. Poor quality reviews hurt business as these reviews are the major reason that helps people to buy goods online. Reviews substitute the in-person analyses of a given product prior to making a purchase. Access to other people’s opinions is crucial. In this project we have built a viable solution to ensure Reviews online are Productive.
 
