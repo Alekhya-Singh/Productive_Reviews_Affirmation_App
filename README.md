@@ -6,6 +6,10 @@ The Productive Reviews Affirmation Application focuses on enriching the review w
 
 The dataset chosen for the solution consists of reviews for fine-foods from Amazon and other Amazon categories. The data, sourced from Kaggle, spans a period of more than 10 years. The data consists of over 560,000 reviews up to October 2012. Link to the dataset on Kaggle- https://www.kaggle.com/snap/amazon-fine-food-reviews.
 
+![image](https://user-images.githubusercontent.com/43326618/58918009-700b4200-8720-11e9-8e0f-fa1cb7711bf5.png)
+
+![image](https://user-images.githubusercontent.com/43326618/58917967-5a961800-8720-11e9-9d7e-818789246801.png)
+
 ### Implementation Steps:
 
     1. Data collection and storage -
