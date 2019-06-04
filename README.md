@@ -2,9 +2,9 @@
 
 The advancements in Cloud Computing has driven the explosion of e-commerce; it has become the preferred means of purchasing certain products and services. An integral part of a product/service listed on websites is the ‘Review’.  Customer reviews are very important to users and the service providers. Reviews form a crucial part in the decision-making process for a person intending on making the said purchase. Statistics suggest that 90% of customers read reviews online before visiting a business. However, not all reviews prove to be helpful - ensuring a review is ‘Productive’ would help customers and businesses immensely. 
 
-The Productive Reviews Affirmation Application (PRAA) focuses on enriching the review writing process. This application augments the reviewer using Machine Learning (ML). The application helps in validating the helpfulness of review provided by the user. The ML system has been trained on existing reviews, it then processes a review and encourages the composer to provide additional details, should there be a need
+The Productive Reviews Affirmation Application focuses on enriching the review writing process. This application augments the reviewer using Machine Learning (ML). The application helps in validating the helpfulness of review provided by the user. The ML system has been trained on existing reviews, it then processes a review and encourages the composer to provide additional details, should there be a need
 
-The dataset chosen for the solution consists of reviews for fine-foods from Amazon and other Amazon categories. The data, sourced from Kaggle, spans a period of more than 10 years. The data consists of over 560,000 reviews up to October 2012. Link to the dataset on Kaggle.
+The dataset chosen for the solution consists of reviews for fine-foods from Amazon and other Amazon categories. The data, sourced from Kaggle, spans a period of more than 10 years. The data consists of over 560,000 reviews up to October 2012. Link to the dataset on Kaggle- https://www.kaggle.com/snap/amazon-fine-food-reviews.
 
 ### Implementation Steps:
 
